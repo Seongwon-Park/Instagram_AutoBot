@@ -1,8 +1,8 @@
 # Instagram-Bot
 Using selenium and pyautogui
 
-# Youtube
-[Youtube]https://www.youtube.com/watch?v=ardanu91Y4I&feature=youtu.be
+# Youtube Link
+Video : [[Youtube](https://www.youtube.com/watch?v=ardanu91Y4I&feature=youtu.be)]
 
 # 목표
 * 인스타그램 봇을 이용하여 "맞팔", "선팔하면 맞팔해요" 등의 태그를 올린 유저를 팔로우 및 좋아요 함으로써 내 계정의 노출도를 증가하여 보고자 한다.
